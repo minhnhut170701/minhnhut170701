@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Hi.gif" width="28px"/>, I'm Lucas</h2>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ParthJohri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-FrontEnd Developer
+ Fullstack Developer
 <a href="https://parth-johri.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
@@ -14,7 +14,7 @@ FrontEnd Developer
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a passionate Front Developer with a strong foundation in  frontend technologies. A Versatile Developer Specializing in <strong>ReactJS, VueJS and React Native</strong> with a Passion for Continuous Learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A Versatile Developer Specializing in <strong>MERN, React Native, VueJs, Python and NodeJS</strong> with a Passion for Continuous Learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
 ## 🛠️ Skills
 
@@ -22,13 +22,15 @@ I am a passionate Front Developer with a strong foundation in  frontend technolo
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### Backend
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 <!-- Add more skills badges -->
 
 ## 🚀 Projects
